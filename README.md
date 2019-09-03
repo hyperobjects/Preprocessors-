@@ -11,8 +11,9 @@ Preprocessing here means: <br>
 
 Once a corpus is loaded and passed through a preprocessor function, a list (cleanDocs) containing lists of preprocessed tokens for each text in the corpus is returned. 
 
-<br><br>
-Not all NLP tasks require the same preproccesing steps, so make sure to only use preprocessing steps needed for your NLP task! For more reading about stop words, refer to: https://medium.com/@wilamelima/why-is-removing-stop-words-not-always-a-good-idea-c8d35bd77214
+<br>
+Not all NLP tasks require the same preproccesing steps, so make sure to only use preprocessing steps needed for your NLP task! 
+For more reading about stop words, refer to: https://medium.com/@wilamelima/why-is-removing-stop-words-not-always-a-good-idea-c8d35bd77214
 
 <h1> Dependencies</h1>
 
