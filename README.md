@@ -1,5 +1,5 @@
 # Preprocessors-
-<h1> Preprocessor functions with some Python NLP libraries/h1>
+Preprocessor functions with some Python NLP libraries
   
  This notebook shows how to preprocess a text corpus using NLKT, spaCy, Stanford CoreNLP, and Spark NLP.
 
