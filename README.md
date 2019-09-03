@@ -31,3 +31,5 @@ https://stanfordnlp.github.io/stanfordnlp/ <br>
 
 pip install spark-nlp <br> 
 https://nlp.johnsnowlabs.com/docs/en/install <br> 
+
+Note: Check the links for documentation on what other language models are supported as you are not limited to working with English language data only. 
