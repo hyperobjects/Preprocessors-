@@ -1,4 +1,4 @@
-# Preprocessors-Preprocessor functions with some Python NLP libraries!
+# Preprocessor functions with some Python NLP libraries!
 This notebook shows how to preprocess a text corpus using NLKT, spaCy, Stanford CoreNLP, and Spark NLP.
 
 Preprocessing here means: <br>
@@ -16,17 +16,18 @@ Not all NLP tasks require the same preproccesing steps, so make sure to only use
 
 <h1> Dependencies</h1>
 
-pip install -U nltk
-nltk.download()  #install data 
-https://www.nltk.org/install.html 
+pip install -U nltk <br>
+nltk.download()  #install data <br>
+https://www.nltk.org/install.html <br> 
 
-pip install -U spacy
-python -m spacy download en #install English language model 
-https://spacy.io/usage
+pip install -U spacy <br>
+python -m spacy download en #English language model <br>
+https://spacy.io/usage <br>
 
-pip install stanfordnlp
-stanfordnlp.download('en') #install English language model 
-https://stanfordnlp.github.io/stanfordnlp/
+pip install stanfordnlp <br>
+stanfordnlp.download('en') #English language model <br>
+https://stanfordnlp.github.io/stanfordnlp/ <br>
 
-pip install spark-nlp
-https://nlp.johnsnowlabs.com/docs/en/install
+pip install spark-nlp <br> 
+https://nlp.johnsnowlabs.com/docs/en/install <br> 
+
