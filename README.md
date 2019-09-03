@@ -6,7 +6,7 @@ After corpus creation, preprocessing is the first step in many NLP tasks. In the
 Preprocessing here means: <br>
 
 1. Breaking each text up into a list of word tokens. <br>
-2. Reducing all word tokens in the corpus to lower case. <br
+2. Reducing all word tokens in the corpus to lower case. <br>
 3. Removing stop words. <br>
 4. Reducing each word to dictionary form by lemmatizing. <br>
 5. Removing all nonalphabetic tokens such as numbers and punctuation. <br>
