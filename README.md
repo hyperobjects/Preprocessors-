@@ -1,4 +1,4 @@
-# Preprocessor functions with some Python NLP libraries!
+# Preprocessor Functions with some Python NLP libraries!
 This notebook shows how to preprocess a text corpus using NLKT, spaCy, Stanford CoreNLP, and Spark NLP.
 
 Preprocessing here means: <br>
@@ -30,4 +30,3 @@ https://stanfordnlp.github.io/stanfordnlp/ <br>
 
 pip install spark-nlp <br> 
 https://nlp.johnsnowlabs.com/docs/en/install <br> 
-
