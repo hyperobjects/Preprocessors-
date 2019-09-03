@@ -29,7 +29,7 @@ pip install stanfordnlp <br>
 stanfordnlp.download('en') #English language model <br>
 https://stanfordnlp.github.io/stanfordnlp/ <br>
 
-pip install spark-nlp <br> 
+pip install spark-nlp==2.2.1 <br> 
 https://nlp.johnsnowlabs.com/docs/en/install <br> 
 
-Note: Check the links for documentation on what other language models are supported as you are not limited to working with English language data. 
+Note: Check the official links for documentation on what other language models are supported as you are not limited to working with English language data. 
