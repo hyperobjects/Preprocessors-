@@ -1,9 +1,10 @@
 # Preprocessors-
 Preprocessor functions with some Python NLP libraries
   
- This notebook shows how to preprocess a text corpus using NLKT, spaCy, Stanford CoreNLP, and Spark NLP.
+This notebook shows how to preprocess a text corpus using NLKT, spaCy, Stanford CoreNLP, and Spark NLP.
 
-Preprocessing here means: <b2>
+
+Preprocessing here means: <br>
 
 1. Breaking each text up into a list of word tokens. <br>
 2. Reducing all word tokens in the corpus to lower case. <br
