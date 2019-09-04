@@ -18,7 +18,7 @@ Preprocessing here means: <br>
 Not all NLP tasks require the same preproccesing steps, so make sure to only use preprocessing steps needed for your NLP task! 
 For more reading about stop words, refer to: https://medium.com/@wilamelima/why-is-removing-stop-words-not-always-a-good-idea-c8d35bd77214
 
-<h2> Dependencies</h2>
+<h2> Dependencies:</h2>
 
 pip install -U nltk <br>
 nltk.download()  #install data <br>
