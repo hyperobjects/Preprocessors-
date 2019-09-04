@@ -1,4 +1,6 @@
 # Preprocessor Functions with Python NLP libraries
+ <h1> Project Description:</h1>
+  
 This notebook shows how to preprocess a text corpus using NLKT, spaCy, Stanford CoreNLP, and Spark NLP. 
 
 After corpus creation, preprocessing is the first step in many NLP tasks. In these examples, first all the .txt files from a local directory are opened and put in a list of documents (docs) which constitutes the text corpus. Once a corpus is loaded and passed through a preprocessor function, a list (cleanDocs) containing lists of preprocessed tokens for each text in the corpus is returned. For notebook readability, I've commented out the return. The corpus in these examples is a collection of speeches by Dr. Martin Luther King.  
