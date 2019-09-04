@@ -20,15 +20,15 @@ For more reading about stop words, refer to: https://medium.com/@wilamelima/why-
 <h2> Dependencies:</h2>
 
 pip install -U nltk <br>
-nltk.download()  #install data <br>
+nltk.download()  #DL NLTK data <br>
 https://www.nltk.org/install.html <br> 
 
 pip install -U spacy <br>
-python -m spacy download en #English language model <br>
+python -m spacy download en_core_web_sm #DL English language model <br>
 https://spacy.io/usage <br>
 
 pip install stanfordnlp <br>
-stanfordnlp.download('en') #English language model <br>
+stanfordnlp.download('en') #DL English language model <br>
 https://stanfordnlp.github.io/stanfordnlp/ <br>
 
 pip install spark-nlp==2.2.1 <br> 
