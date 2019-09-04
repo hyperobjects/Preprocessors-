@@ -15,7 +15,7 @@ Preprocessing here means: <br>
 5. Removing all nonalphabetic tokens such as numbers and punctuation. <br>
 
 <br>
-Not all NLP tasks require the same preproccesing steps, so make sure to only use preprocessing steps needed for your NLP task! 
+Not all NLP tasks require the same preproccesing steps, so make sure to only use preprocessing steps needed for your project! 
 For more reading about stop words, refer to: https://medium.com/@wilamelima/why-is-removing-stop-words-not-always-a-good-idea-c8d35bd77214
 
 <h2> Dependencies:</h2>
