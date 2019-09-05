@@ -20,18 +20,20 @@ For more reading about stop words, refer to: https://medium.com/@wilamelima/why-
 <h2> Dependencies:</h2>
 
 pip install -U nltk <br>
-nltk.download()  #DL NLTK data <br>
-https://www.nltk.org/install.html <br> 
+nltk.download()  # execute in python and select which NLTK corpora to download<br>
 
 pip install -U spacy <br>
-python -m spacy download en_core_web_sm #DL English language model <br>
-https://spacy.io/usage <br>
+python -m spacy download en_core_web_sm <br>
 
 pip install stanfordnlp <br>
-stanfordnlp.download('en') #DL English language model <br>
-https://stanfordnlp.github.io/stanfordnlp/ <br>
+stanfordnlp.download('en') # download English language model <br>
 
 pip install spark-nlp==2.2.1 <br> 
-https://nlp.johnsnowlabs.com/docs/en/install <br> 
 
 <b>Note</b>: Check the official links for documentation on what other language models are supported as you are not limited to working with English language data. 
+
+https://www.nltk.org/install.html <br> 
+https://nlp.johnsnowlabs.com/docs/en/install <br> 
+https://stanfordnlp.github.io/stanfordnlp/ <br>
+https://spacy.io/usage <br>
+
